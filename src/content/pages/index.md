@@ -27,28 +27,28 @@ content_blocks:
       templates, and more to get you started on your next project.
     alternate_style: false
     numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
+      - prefix: 
+        number: 10
+        suffix: 
+        text: project
       - prefix:
-        number: 2016
+        number: 2020
         suffix:
-        text: Established in
+        text: crée en
       - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
+        number: 4
+        suffix: 
+        text: bot acctive
       - prefix:
-        number: 4322
+        number: 34
         suffix: +
-        text: Active users and growing
+        text: images dans banque d'images pour bot
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: "Stiala "
     title_suffix: Features
     remove_top_padding: true
     description: >-
