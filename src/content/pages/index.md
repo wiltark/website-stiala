@@ -11,10 +11,9 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: home/hero
-    title: Beautiful email campaigns
+    title: un écosystème sans limite
     description: >-
-      With Sendit, you can quickly create beautiful rich emails that capture a
-      reader's attention, engage them, and convert them into customers.
+     Découvrez notre bot Discord, un service multi-fonction gratuit qui offre des fonctionnalités variées telles que le stockage d'images et bien plus encore !
     image: /images/hero/hero-image-2.png
     image_alt: Reports dashboard
     button:

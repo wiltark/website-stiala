@@ -1,5 +1,5 @@
 {
-  "logo": "/images/logo.svg",
+  "logo": "/images/logostialaonline.png",
   "items": [
     {
       "link": "/",
@@ -8,10 +8,6 @@
     {
       "link": "/features/",
       "text": "Features"
-    },
-    {
-      "link": "/pricing/",
-      "text": "Pricing"
     },
     {
       "link": "/about/",
@@ -28,6 +24,6 @@
   ],
   "btn": {
     "link": "/signup/",
-    "text": "Get Started"
+    "text": "Stiala Plus"
   }
 }
