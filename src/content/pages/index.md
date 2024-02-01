@@ -43,13 +43,9 @@ content_blocks:
         number: 34
         suffix: +
         text: images dans banque d'images pour bot
-  - _bookshop_name: home/video
-    image: /images/video/video-thum.jpg
-    image_alt: Thumbnail for video
-    video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
     title: "Stiala "
-    title_suffix: Features
+    title_suffix: écosystème
     remove_top_padding: true
     description: >-
       Our platform offers the most advanced features including automated email
