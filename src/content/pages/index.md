@@ -43,6 +43,10 @@ content_blocks:
         number: 34
         suffix: +
         text: images dans banque d'images pour bot
+      - prefix:
+        number: 5843
+        suffix: +
+        text: utilisateur des bot
   - _bookshop_name: global/header
     title: "Stiala "
     title_suffix: écosystème
